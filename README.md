@@ -1,3 +1,3 @@
 # misc-sidework
-Misc. small practice exercises 
-Mostly old problems from udacity.com
+Misc. small practice exercises. '\n' 
+Mostly old problems from udacity.com.
